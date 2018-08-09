@@ -1,2 +1,13 @@
 # Stanford-Machine-Learning
-This repo includes stanford machine learning notes and projects which helped me to understand the underlying mathematics behind machine learning algorithms and how to apply them in the real world
+These are some programming exercise of Stanford Machine Learning Online Course.
+The algorithms were coded in octave including:
+1.Anomaly Detection and Recommender Systems
+2.Decision Trees&Boosting 
+3.HMM
+4.K-Means Clustering and PCA
+5.Linear Regression
+6.Logistic Regression (matlab/octave)
+7.Multi-class classification and neural networks
+8.Neural network learning
+9.Regularized linear regression and bias-variance
+10.Support Vector Machiness
